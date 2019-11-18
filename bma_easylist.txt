@@ -1,0 +1,12 @@
+###pagelet_side_ads
+###pagelet_search_ads2
+###pagelet_netego_ads
+###pagelet_adbox
+
+facebook.com###pagelet_ego_pane a[ajaxify*="&eid="] + div
+facebook.com###pagelet_ego_pane a[ajaxify*="&eid="]
+facebook.com###pagelet_ads_when_no_friend_list_suggestion
+facebook.com,facebookcorewwwi.onion###pagelet_ego_pane > .pagelet:not(.egoOrganicColumn)
+facebook.com###megamall_rhc_ssfy_pagelet
+bythom.com#?##sidebar-content div.pagelet.titled[-ext-has="> h4 > span:contains(Advertisement)"]
+t.facebook.com#?#div[id^="more_pager_pagelet_"] div[id^="hyperfeed_story_id_"][-ext-has='a[href^="/ads/about"]']
