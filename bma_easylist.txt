@@ -2,7 +2,6 @@
 ###pagelet_search_ads2
 ###pagelet_netego_ads
 ###pagelet_adbox
-
 facebook.com###pagelet_ego_pane a[ajaxify*="&eid="] + div
 facebook.com###pagelet_ego_pane a[ajaxify*="&eid="]
 facebook.com###pagelet_ads_when_no_friend_list_suggestion
